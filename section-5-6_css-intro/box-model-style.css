@@ -1,0 +1,20 @@
+p {
+
+	/*Content - Width and Height*/
+	width: 25%;
+
+	/*Border*/
+
+	border: 2px solid blue;
+
+		/*Padding*/
+
+	/*padding: 10px;*/
+	padding-left: 40px;
+
+	/*Margin - space between elements*/
+
+	/*margin: 100px;*/
+	margin: 0 auto 0 auto; /*top and bottom to 0, left and right to auto, which is center */
+
+}
